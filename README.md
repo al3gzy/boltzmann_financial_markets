@@ -1,6 +1,6 @@
 # Predictive Power of Boltzmann Distribution in Financial Markets
 
-## Overview
+## 📌 Overview
 This project explores the application of the **Boltzmann Distribution** from statistical mechanics to model financial markets. By drawing analogies between energy states in physics and asset price fluctuations in economics, the study aims to provide a novel framework for predicting market volatility and trends.
 
 ## Key Features
@@ -19,6 +19,3 @@ This project explores the application of the **Boltzmann Distribution** from sta
 ## Results
 - A significant correlation between model predictions and historical market data.
 - The model offers a promising alternative to traditional financial theories like **Efficient Market Hypothesis** and **Capital Asset Pricing Model**.
-
-## Technologies
-- Python - NumPy, - Matplotlib, Monte Carlo Simulation, Kernel Density Estimation (KDE), Differential Evolution Optimization
